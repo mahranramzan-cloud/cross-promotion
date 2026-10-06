@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "id": "drugdealer",
+      "title": "Drug Dealer Game",
+      "image": "images/DrugDealer.png",
+      "storeUrl": "https://www.amazon.com/",
+      "enabled": true
+    }
+  ]
+}
