@@ -1,8 +1,19 @@
-"interstitials": [
-  {
-    "order": 1,
-    "gameId": "drugdealer",
-    "repeat": 1,
-    "enabled": true
-  }
-]
+{
+  "games": [
+    {
+      "id": "drugdealer",
+      "title": "Drug Dealer Game",
+      "image": "interstitials/DrugDealer_v2.png",
+      "storeUrl": "https://www.amazon.com/",
+      "enabled": true
+    }
+  ],
+  "interstitials": [
+    {
+      "order": 1,
+      "gameId": "drugdealer",
+      "repeat": 1,
+      "enabled": true
+    }
+  ]
+}
